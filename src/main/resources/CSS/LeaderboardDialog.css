@@ -1,0 +1,28 @@
+#leaderboard-root {
+    -fx-background-color: black;
+    -fx-padding: 20;
+    -fx-alignment: center;
+}
+
+.leaderboard-title {
+    -fx-font-size: 24;
+    -fx-text-fill: yellow;
+    -fx-font-weight: bold;
+}
+
+.leaderboard-empty {
+    -fx-font-size: 16;
+    -fx-text-fill: white;
+}
+
+.leaderboard-score {
+    -fx-font-size: 18;
+    -fx-text-fill: lime;
+}
+
+.leaderboard-close {
+    -fx-background-color: darkred;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 6 20 6 20;
+}

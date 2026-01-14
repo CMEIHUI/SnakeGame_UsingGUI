@@ -1,0 +1,16 @@
+.settings-root {
+    -fx-background-color: black;
+}
+
+.settings-label {
+    -fx-background-color: #555;
+    -fx-padding: 8;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.back-button {
+    -fx-background-color: #444;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}

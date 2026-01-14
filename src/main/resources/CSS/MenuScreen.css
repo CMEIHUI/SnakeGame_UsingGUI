@@ -1,0 +1,17 @@
+#menu-root {
+    -fx-background-color: black;
+}
+
+#menu-title {
+    -fx-fill: gold;
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 36px;
+    -fx-font-weight: bold;
+}
+
+.menu-button {
+    -fx-text-fill: white;
+    -fx-background-color: #333333;
+    -fx-font-weight: bold;
+    -fx-pref-width: 200px;
+}

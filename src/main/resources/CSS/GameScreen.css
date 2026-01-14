@@ -1,0 +1,43 @@
+.score-label {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: Black;
+}
+
+.game-over-root {
+    -fx-background-color: #0f1720;
+    -fx-padding: 20;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(gaussian, black, 10, 0, 0, 0);
+}
+
+.game-over-header {
+    -fx-text-fill: #00ffcc;
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+}
+
+.final-score {
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
+
+.play-again {
+    -fx-background-color: #00ffcc;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+.back-home {
+    -fx-background-color: #ffaa00;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+.quit {
+    -fx-background-color: #ff0044;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}

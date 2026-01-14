@@ -1,0 +1,22 @@
+#contact-title {
+    -fx-fill: gold;
+    -fx-font-size: 26px;
+    -fx-font-weight: bold;
+}
+
+#contact-info {
+    -fx-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+#contact-back {
+    -fx-pref-width: 200px;
+    -fx-background-color: #444;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#contact-root {
+    -fx-background-color: black;
+}
